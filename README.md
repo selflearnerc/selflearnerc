@@ -14,7 +14,7 @@
 - ✅ Master Python basics and logic building
 - 🧠 Learn foundational topics in Machine Learning
 - 🛠 Build real-world mini projects (e.g., calculator, to-do app, chatbot)
-- 📊 Explore data science tools like Pandas, NumPy (soon!)
+- 📊 Explore data science tools like Pandas,Tensorflow, NumPy (soon!)
 - 💼 Build a strong portfolio to apply for internships and jobs
 
 ---
