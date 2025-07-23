@@ -21,7 +21,7 @@
 
 ### 🧰 Tools Helping Me Learn:
 - 💬 ChatGPT (daily help, doubt solving, explanations)
-- 🎥 YouTube tutorials (e.g., freeCodeCamp, Tech with Tim)
+- 🎥 YouTube tutorials (e.g., codewithharry, freecodecamp)
 - 📘 W3Schools, GeeksforGeeks, and official docs
 
 ---
