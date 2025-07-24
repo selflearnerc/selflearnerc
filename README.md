@@ -1,17 +1,12 @@
-<!-- 👋 Animated Waving Hand (Before Typing Text) -->
+<!-- 🎯 TYPING ANIMATION - Always visible on light/dark themes -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/master/assets/wave.gif" width="30" />
-</p>
-
-<!-- 🎯 TYPING ANIMATION - Shows animated text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Selflearnerc!;🧠+Self-Learning+AI+%26+Python+Every+Day;🎯+Future+Goal:+Work+at+Google+or+OpenAI;💬+Learning+with+ChatGPT's+Help" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Selflearnerc!;🧠+Self-Learning+AI+%26+Python+Every+Day;🎯+Future+Goal:+Work+at+Google+or+OpenAI;💬+Learning+with+ChatGPT's+Help" alt="Typing Animation" />
 </p>
 
 <!-- 🌊 MODERN BANNER WITH GRADIENT - WHITE SCREEN COMPATIBLE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Welcome%20to%20My%20AI%20World!&fontSize=36&fontColor=ffffff&animation=fadeIn" />
-</p>
+</p> 
 
 
 
