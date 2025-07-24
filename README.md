@@ -1,8 +1,9 @@
-<!-- 🎯 TYPING ANIMATION - Always visible on light/dark themes -->
+<!-- 👋 Animated Waving Hand (Before Typing Text) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/master/assets/wave.gif" width="40" />
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/master/assets/wave.gif" width="30" />
 </p>
 
+<!-- 🎯 TYPING ANIMATION - Shows animated text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Selflearnerc!;🧠+Self-Learning+AI+%26+Python+Every+Day;🎯+Future+Goal:+Work+at+Google+or+OpenAI;💬+Learning+with+ChatGPT's+Help" alt="Typing Animation" />
 </p>
