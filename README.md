@@ -1,12 +1,13 @@
-<!-- 🔥 GLOWING HEADER -->
+<!-- 🔥 TYPING ANIMATION – BRIGHT + CENTERED -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Selflearnerc!;🔥+Learning+AI+%26+Python+Everyday;🎯+My+Goal+is+to+Work+at+Google+or+OpenAI;💡+Self-learning+with+ChatGPT+Power!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Selflearnerc!;🔥+Learning+AI+%26+Python+Everyday;🎯+My+Goal+is+to+Work+at+Google+or+OpenAI;💡+Self-learning+with+ChatGPT+Power!" alt="Typing Animation" />
 </p>
 
-<!-- 🌊 ANIMATED BANNER -->
+<!-- 🌊 ANIMATED WAVE BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Welcome%20to%20My%20Universe!&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling&fontSize=32&desc=I%20Code%20With%20Passion%20%E2%9A%A1%EF%B8%8F&descAlignY=60" />
 </p>
+
 
 
 ### 🧠 About Me:
