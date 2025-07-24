@@ -1,9 +1,11 @@
+<!-- 🔥 GLOWING HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🚀+I'm+Selflearnerc;👨‍💻+Learning+AI+and+Python+Daily;🎯+Goal%3A+Work+at+Google+or+OpenAI;🧠+Self-learning+with+ChatGPT" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=800&lines=👋+Hi+there%2C+I'm+Selflearnerc!;🔥+Learning+AI+%26+Python+Everyday;🎯+My+Goal+is+to+Work+at+Google+or+OpenAI;💡+Self-learning+with+ChatGPT+Power!" alt="Typing Animation" />
 </p>
 
+<!-- 🌊 ANIMATED BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:FF00C8&height=120&section=header&text=Welcome%20to%20My%20AI%20World!&fontSize=28&fontAlignY=35&desc=Code%20%7C%20Learn%20%7C%20Grow&descAlignY=60&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=Welcome%20to%20My%20Universe!&fontAlign=50&fontAlignY=35&color=gradient&animation=twinkling&fontSize=32&desc=I%20Code%20With%20Passion%20%E2%9A%A1%EF%B8%8F&descAlignY=60" />
 </p>
 
 
