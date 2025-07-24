@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm SelfLearnerRC
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1a40a67e-763a-4685-a049-b3e5f32b5f56" />
+
 
 ### 🧠 About Me:
 - 🧑‍💻 I'm a passionate self-learner on a journey to become an AI/ML expert
