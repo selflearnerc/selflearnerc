@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=28&pause=1000&color=F7971E&vCenter=true&center=true&width=600&lines=🚀+AI+Dreamer+%7C+Python+Builder;👨‍💻+Self-Taught+Dev+with+ChatGPT;🎯+Goal%3A+Work+at+Google+or+OpenAI" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=800&lines=🚀+I'm+Selflearnerc;👨‍💻+Learning+AI+and+Python+Daily;🎯+Goal%3A+Work+at+Google+or+OpenAI;🧠+Self-learning+with+ChatGPT" alt="Typing Animation" />
 </p>
 
-<h1 align="center">
-  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/master/demo.svg?raw=true" alt="Fancy Border" width="100%">
-</h1>
-
-<h3 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Selflearnerc's%20World!&fontSize=25&fontAlignY=35&desc=Learning%20AI%20%26%20Python%20Everyday!&descAlignY=60&animation=twinkling" />
-</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFD1,100:FF00C8&height=120&section=header&text=Welcome%20to%20My%20AI%20World!&fontSize=28&fontAlignY=35&desc=Code%20%7C%20Learn%20%7C%20Grow&descAlignY=60&animation=twinkling" />
+</p>
 
 
 ### 🧠 About Me:
