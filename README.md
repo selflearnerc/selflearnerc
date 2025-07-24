@@ -1,6 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFA2&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Selflearnerc;Learning+AI+%26+Python+Daily;Dreaming+to+Work+at+Google;Self-learning+with+ChatGPT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=28&pause=1000&color=F7971E&vCenter=true&center=true&width=600&lines=🚀+AI+Dreamer+%7C+Python+Builder;👨‍💻+Self-Taught+Dev+with+ChatGPT;🎯+Goal%3A+Work+at+Google+or+OpenAI" alt="Typing Header" />
 </p>
+
+<h1 align="center">
+  <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/master/demo.svg?raw=true" alt="Fancy Border" width="100%">
+</h1>
+
+<h3 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Selflearnerc's%20World!&fontSize=25&fontAlignY=35&desc=Learning%20AI%20%26%20Python%20Everyday!&descAlignY=60&animation=twinkling" />
+</h3>
 
 
 ### 🧠 About Me:
