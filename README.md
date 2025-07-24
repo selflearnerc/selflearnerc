@@ -1,4 +1,6 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/1a40a67e-763a-4685-a049-b3e5f32b5f56" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Selflearnerc;Learning+AI+and+Python+Daily;With+a+Goal+to+Work+at+Google;Self-learning+with+ChatGPT" alt="Typing SVG" />
+</p>
 
 
 ### 🧠 About Me:
