@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Selflearnerc;Learning+AI+and+Python+Daily;With+a+Goal+to+Work+at+Google;Self-learning+with+ChatGPT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Selflearnerc;Learning+AI+%26+Python+Daily;Dreaming+to+Work+at+Google;Self-learning+with+ChatGPT" alt="Typing SVG" />
 </p>
 
 
