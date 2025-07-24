@@ -8,16 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=header&text=Welcome%20to%20My%20AI%20World!&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 🔊 AUDIO PLAYER -->
-<h3 align="center">🎧 Hear My AI Voice Intro</h3>
-
-<p align="center">
-  <audio controls>
-    <source src="https://github.com/selflearnerc/python-calculator/blob/main/AIVoice/AIVoice.mp3?raw=true" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</p>
-
 
 
 
