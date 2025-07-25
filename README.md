@@ -40,4 +40,4 @@
 ### 🤝 Let's Connect:
 > If you're also a self-learner, feel free to collaborate or connect!
 
-
+![Snake animation](https://raw.githubusercontent.com/selflearnerc/selflearnerc/output/github-contribution-grid-snake-dark.svg)
